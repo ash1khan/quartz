@@ -20,10 +20,10 @@ Among the colorful blooms of ideas and the towering trees of deep thoughts, this
 ## 🗺️ Navigating (How)
 
 In the days to come, you'll find an eclectic mix of musings taking root in this digital haven. 
-- [[Journals/Garden/Life and philosophy/index|Life and philosophy]] - rant about my unfiltered thoughts, question about life and meanings
-- [[Journals/Garden/Ideas and Projects/index|Ideas and projects]] - seed of ideas and formulation into projects
-- [[Journals/Garden/How to/index|How to's]] - productivity tips, open source software checks
-- [[Journals/Garden/Deep Study/index|Deep study]] - domain specific subject and my findings 
+- [[./Life and philosophy/index|Life and philosophy]] - rant about my unfiltered thoughts, question about life and meanings
+- [[./Ideas and Projects/index|Ideas and projects]] - seed of ideas and formulation into projects
+- [[./How to/index|How to's]] - productivity tips, open source software checks
+- [[./Deep Study/index|Deep study]] - domain specific subject and my findings 
 - [[./Blogs/index|Blogs]] - external space where I used to write in more formal manner (like substack, medium)
 
 N:B- The top section of any page consist of navigation system marking with ↩ to get back to one level up from the rabbit hole if you feel lost.
